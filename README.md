@@ -38,7 +38,7 @@
 <br>
 
 <p align="center">운영중인 사이트 : 
-  <a href="http://jeongseok.site/" margin="0 auto">이터널리턴 전적검색</a>
+  <a href="http://jeongseok.site/" margin="0 auto">이터널 리턴 전적검색</a>
 </p>
 
 <br>
