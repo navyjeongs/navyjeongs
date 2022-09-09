@@ -41,7 +41,7 @@
   <a href="http://jeongseok.site/" margin="0 auto">이터널 리턴 전적검색</a>
 </p>
 <p align="center">Tech Blog : 
-  <a href="https://velog.io/@navyjeongs">Tech Blog</a>
+  <a href="https://velog.io/@navyjeongs"></a>
 </p>
 
 <br>
