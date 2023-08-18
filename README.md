@@ -40,7 +40,7 @@
 <br>
 
 <p align="center">운영중인 사이트 : 
-  <a href="https://jeongseok.site/" margin="0 auto">이터널 리턴 전적검색</a>
+  <a href="https://jeongseok.site/" margin="0 auto">이터널 리턴 전적검색 ( 🛠공사중🛠 )</a>
 </p>
 <p align="center">Tech Blog  : 
   <a href="https://velog.io/@navyjeongs">벨로그</a>
