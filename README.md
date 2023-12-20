@@ -19,9 +19,9 @@
 
 
 ### Hosting Site
-아마추어를 위한 E-sports 개최 플랫폼 : [LeagueHub](https://leaguehub.co.kr/)
+아마추어를 위한 E-sports 개최 플랫폼 : <a href="https://leaguehub.co.kr/" target="_blank">LeagueHub</a>
 
-방탈출 구인 플랫폼 : [LockFestival](https://www.lockfestival.com/)
+방탈출 구인 플랫폼 : <a href="https://www.lockfestival.com/" target="_blank">Lock Festival</a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navyjeongs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
