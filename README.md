@@ -4,7 +4,7 @@
 ## I'm JeongSeok, FrontEnd Developer
 - I like React, Next.js, TypeScript.
 - I like to improve discomfort.
-- I'm studying test with jest.
+- I'm learning to write the test code using jest.
 
 
 ### Contact Me
