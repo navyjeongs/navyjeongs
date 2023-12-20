@@ -9,8 +9,8 @@
 
 ### Contact Me
 
-<a href="mailto:wjdtjr8649@naver.com" target="_blank"><img src="https://img.shields.io/badge/wjdtjr8649@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
-<a href="https://velog.io/@navyjeongs" target="_blank"><img src="https://img.shields.io/badge/navyjeongs.log-20C997?style=flat-square&logo=velog&logoColor=white"></a>
+<a href="mailto:wjdtjr8649@naver.com"><img src="https://img.shields.io/badge/wjdtjr8649@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
+<a href="https://velog.io/@navyjeongs"><img src="https://img.shields.io/badge/navyjeongs.log-20C997?style=flat-square&logo=velog&logoColor=white"></a>
 
 ### Skill
 <img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-square&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/React-008BCB?style=flat-square&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> 
@@ -19,9 +19,9 @@
 
 
 ### Hosting Site
-아마추어를 위한 E-sports 개최 플랫폼 : <a href="https://leaguehub.co.kr/" target="_blank">LeagueHub</a>
+아마추어를 위한 E-sports 개최 플랫폼 : <a href="https://leaguehub.co.kr/">LeagueHub</a>
 
-방탈출 구인 플랫폼 : <a href="https://www.lockfestival.com/" target="_blank">Lock Festival</a>
+방탈출 구인 플랫폼 : <a href="https://www.lockfestival.com/">Lock Festival</a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navyjeongs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
