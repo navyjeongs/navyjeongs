@@ -1,51 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=WELCOME!&fontAlign=70&rotate=13&fontAlignY=25&desc=JeongSeok's%20GitHub&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=3887BE&section=header&text=JeongSeok%20FrontEnd%20Developer&fontColor=f0f0f0&height=200&fontSize=40&animation=fadeIn)
 
 
-<h3 align="center">🛠 Tech Stack 🛠</h3><br>
+### Contact Me
 
-<p align="center"> Learning! </p>
+<a href="mailto:wjdtjr8649@naver.com" target="_blank"><img src="https://img.shields.io/badge/wjdtjr8649@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
+<a href="https://velog.io/@navyjeongs" target="_blank"><img src="https://img.shields.io/badge/navyjeongs.log-20C997?style=flat-square&logo=velog&logoColor=white"></a>
 
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+### Skill
+<img src="https://img.shields.io/badge/JavaScript-FF9A00?style=flat-square&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/React-008BCB?style=flat-square&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> 
 
-<br>
-<img src="https://img.shields.io/badge/Next.JS-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-008BCB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
 
-</p>
 
-<p align="center"> I've used at least once! </p>
+### Hosting Site
+아마추어를 위한 E-sports 개최 플랫폼 : [LeagueHub](https://leaguehub.co.kr/)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-E89313?style=flat-square&logo=Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A6A9AA?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-</p>
+방탈출 구인 플랫폼 : [LockFestival](https://www.lockfestival.com/)
 
-<p align="center">DataBase</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-</p>
-<br>
-
-<p align="center">운영중인 사이트 : 
-  <a href="https://jeongseok.site/" margin="0 auto">이터널 리턴 전적검색 ( 🛠공사중🛠 )</a>
-</p>
-<p align="center">Tech Blog  : 
-  <a href="https://velog.io/@navyjeongs">벨로그</a>
-</p>
-
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navyjeongs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
