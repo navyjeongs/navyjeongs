@@ -1,4 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=3887BE&section=header&text=JeongSeok%20FrontEnd%20Developer&fontColor=f0f0f0&height=200&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=3887BE&section=header&text=JeongSeok&fontColor=f0f0f0&height=200&fontSize=70&animation=fadeIn)
+
+
+## I'm JeongSeok, FrontEnd Developer
+- I like React, Next.js, TypeScript.
+- I like to improve discomfort.
+- I'm studying test with jest.
 
 
 ### Contact Me
